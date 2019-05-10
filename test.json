@@ -1,0 +1,6 @@
+{
+  "vcf": {
+    "class": "File",
+    "path": "data/test.vcf"
+  }
+}
